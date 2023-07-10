@@ -1,0 +1,19 @@
+.navigation{
+    font-size: 1.2em;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+}
+
+.activelink{
+        font-weight: bold;
+        color: rgb(7, 161, 154);
+}

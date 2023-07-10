@@ -1,0 +1,9 @@
+.image {
+    background-color: rgba(44, 41, 41, 0.397);
+    border-radius: 50%;
+    border: 10px solid rgb(7, 161, 154);
+    width: 20%;
+    height: 20%;
+    position: relative;
+
+}

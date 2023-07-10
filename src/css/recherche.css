@@ -1,0 +1,8 @@
+.recherche{
+  border-radius: 5%;
+}
+
+.rechercheSpan {
+    border: 2px solid rgb(56, 228, 199) ;
+    width: 100%;
+}
